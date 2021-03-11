@@ -473,6 +473,10 @@ body {
 
   .feature-best__item {
     margin-bottom: 2rem; }
+  
+  .subcribe__button {
+    padding-left: 2rem;
+  }
 
   .picture {
     margin-top: 3rem;
